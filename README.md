@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Amina! 
-- 👀 I’m interested in Data analysis and Machine Learning.
-- 🌱 I’m currently learning Neural networ and Decision Trees in Machine Learning.
+- 👋 Hi, I’m Temiloluwa Akuintunde 
+- 👀 I’m a Data Analyst 
+- 🌱 I’m actively working on data science projects.
 - 💞️ I’m looking to collaborate on Data analytics and data science projects.
 - 📫 How to reach me gmail: akintundetemiloluwa.a@gmail.com, medium: https://medium.com/@akintundetemiloluwa.a
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Python is my favourite data science tool.
+- ⚡ Fun fact: I love watching anime and reading manhwa
 
 <!---
 Amina-py/Amina-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
