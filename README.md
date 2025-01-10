@@ -2,7 +2,7 @@
 - 👀 I’m a Data Analyst 
 - 🌱 I’m actively working on data science projects.
 - 💞️ I’m looking to collaborate on Data analytics and data science projects.
-- 📫 How to reach me gmail: akintundetemiloluwa.a@gmail.com, medium: https://medium.com/@akintundetemiloluwa.a
+- 📫 How to reach me gmail: akintundetemiloluwa.a@gmail.com, medium: https://medium.com/@akintundetemiloluwa.a, LinkedIn: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching anime and reading manhwa
 
