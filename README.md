@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Temiloluwa Akuintunde 
+- 👋 Hi, I’m Temiloluwa Akintunde 
 - 👀 I’m a Data Analyst 
 - 🌱 I’m actively working on data science projects.
 - 💞️ I’m looking to collaborate on Data analytics and data science projects.
-- 📫 How to reach me [Gmail](akintundetemiloluwa.a@gmail.com), [Medium](https://medium.com/@akintundetemiloluwa), [LinkedIn]()
+- 📫 How to reach me [Gmail](akintundetemiloluwa.a@gmail.com).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching anime and reading manga.
 
